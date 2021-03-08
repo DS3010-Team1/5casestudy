@@ -1,9 +1,7 @@
-﻿Silhoutte,Colab?,X-Brand,Womens?,Rerelease?,Colorway,releaseDate,retail,resale,Size (men's US),marketplace,Relevant Hastags
-Cosmic Unity,n,,n,n,Green Glow,,$150.00 ,$181.00 ,9,StockX,"#cosmicunity,#movetozero"
-Blazer Mid,y,READYMADE,n,n,White,,$160.00 ,$322.00 ,9,StockX,#readymade
-Blazer Mid,y,READYMADE,n,n,Black,,$160.00 ,$356.00 ,9,StockX,#readymade
-Dunk Low,n,,n,,City Market,,$110.00 ,$399.00 ,9,StockX,"#citymarket,#dunklow,#dunk"
-Dunk High,n,,n,,Dark Curry,,$120.00 ,$182.00 ,9,StockX,"#darkcurry,#dunkhigh"
-Jordan 1 Retro High OG,n,,n,,University Blue,,$170.00 ,$424.00 ,9,StockX,"#aj1,#universityblue,#unc"
-Jordan Delta Mid,n,,n,,Hasta,,$160.00 ,$215.00 ,9,Ebay,nike delta mid
-Cosmic Unity,n,,n,,Amalgam,,$160.00 ,$208.00 ,9,StockX,"#cosmicunity,#movetozero"
+﻿Silhoutte,Colab?,X-Brand,Womens?,Rerelease?,Colorway,releaseDate,retail,resale,Size (men's US),marketplace,Relevant Hastags,SearchTerms
+Cosmic Unity,n,,n,n,Green Glow,,150,181,9,StockX,"#cosmicunity,#movetozero",greenglow|green glow|greenglo|green glo
+Blazer Mid,y,READYMADE,n,n,White,,160,322,9,StockX,#readymade,white
+Blazer Mid,y,READYMADE,n,n,Black,,160,356,9,StockX,#readymade,black
+Dunk Low,n,,n,,City Market,,110,399,9,StockX,"#citymarket,#dunklow,#dunk",citymarket|city market|ctymarket|ctymrkt|cty mrkt|cty market
+Dunk High,n,,n,,Dark Curry,,120,182,9,StockX,"#darkcurry,#dunkhigh",dark curry|darkcurry|drkcrry|drk crry
+Jordan 1 Retro High OG,n,,n,,University Blue,,170,424,9,StockX,"#aj1,#universityblue,#unc",universityblue|university blue|uniblue|univblue
